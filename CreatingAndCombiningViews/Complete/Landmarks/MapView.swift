@@ -1,9 +1,9 @@
-//
-//  MapView.swift
-//  Landmarks
-//
-//  Created by alexis on 14/1/21.
-//
+/*
+See LICENSE folder for this sample’s licensing information.
+
+Abstract:
+A view that presents a map.
+*/
 
 import SwiftUI
 import MapKit
